@@ -6,7 +6,7 @@ class TaskManager:
     def add_task(self,task):
         self.tasks.append(task)
     def remove_task(self,task):
-        self.tasks.remove(tasks)
+        self.tasks.remove(task)
     def get_all_tasks(self):
         return self.tasks
     def filter_by_priority(self,priority):
