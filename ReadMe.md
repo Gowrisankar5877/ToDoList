@@ -7,11 +7,11 @@
 <p>This project demonstrates proficiency in using Git and GitHub for version control, collaboration, and best practices such as branching, merging, tagging, and creating hooks.</p>
 
 <H3>Features</H3>
-  1. Add new tasks with a title, description, priority, and due date.
-  2. Mark tasks as complete.
-  3. Filter tasks by priority.
-  4. View all tasks in the list.
-  5. Delete tasks when no longer needed.
+  1. Add new tasks with a title, description, priority, and due date.<br>
+  2. Mark tasks as complete.<br>
+  3. Filter tasks by priority.<br>
+  4. View all tasks in the list.<br>
+  5. Delete tasks when no longer needed.<br>
 <H3>Technology Stack</H3>
 <B>Language:</B> Python
 <B>Tools/Technologies:</B> Git, GitHub
