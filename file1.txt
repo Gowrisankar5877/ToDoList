@@ -1,1 +1,1 @@
-Modified first line for conflict. Added in BranchAdding new file in branch for conflict while merging
+Modified first line for conflict between main and branch.
