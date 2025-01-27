@@ -1,1 +1,1 @@
-New File is added for ORT Strategy Merging
+Modified first line for conflict. Added in BranchAdding new file in branch for conflict while merging
