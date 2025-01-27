@@ -1,1 +1,1 @@
-Modified first line for conflict between main and branch.
+File is in branch 
